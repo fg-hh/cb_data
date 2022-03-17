@@ -5,9 +5,9 @@
    "CheckAdditionalNFCTagsEnabled":true,
    "UseCMSConfig":true,
    "WaitingTimeBetweenAudioOfIndependendBeacon":30,
-   "GeneralConfigPath":"http://cappenberg.nordleu.de/api/v1/GeneralConfig.json",
-   "RoomExhibitConfigPath":"http://cappenberg.nordleu.de/api/v1/RoomExhibitConfigList.json",
-   "SingleBeaconConfigPath":"http://cappenberg.nordleu.de/api/v1/SingleBeaconConfig.json",
-   "AudioUpdateAssetURL":"http://cappenberg.nordleu.de/api/v1/assets.json",
-   "AssetURL":"http://cappenberg.nordleu.de:80/api/v1/assets/"
+   "GeneralConfigPath":"http://lwl323aag01/api/v1/GeneralConfig.json",
+   "RoomExhibitConfigPath":"http://lwl323aag01/api/v1/RoomExhibitConfigList.json",
+   "SingleBeaconConfigPath":"http://lwl323aag01/api/v1/SingleBeaconConfig.json",
+   "AudioUpdateAssetURL":"http://lwl323aag01/api/v1/assets.json",
+   "AssetURL":"http://lwl323aag01:80/api/v1/assets/"
 }
