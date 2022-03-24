@@ -1,13 +1,13 @@
 {
    "HeadSetPageWaitingTime":"00:00:15",
-   "MaxFilterRSSIValue":70,
+   "MaxFilterRSSIValue":85,
    "AudioFileUpdateCheckEnabled":true,
    "CheckAdditionalNFCTagsEnabled":true,
    "UseCMSConfig":true,
    "WaitingTimeBetweenAudioOfIndependendBeacon":30,
-   "GeneralConfigPath":"http://lwl323aag01.fghh.zz/api/v1/GeneralConfig.json",
-   "RoomExhibitConfigPath":"http://lwl323aag01.fghh.zz/api/v1/RoomExhibitConfigList.json",
-   "SingleBeaconConfigPath":"http://lwl323aag01.fghh.zz/api/v1/SingleBeaconConfig.json",
-   "AudioUpdateAssetURL":"http://lwl323aag01.fghh.zz/api/v1/assets.json",
-   "AssetURL":"http://lwl323aag01.fghh.zz:80/api/v1/assets/"
+   "GeneralConfigPath":"http://lwl323aag01.audioguide.cappenberg.zz/api/v1/GeneralConfig.json",
+   "RoomExhibitConfigPath":"http://lwl323aag01.audioguide.cappenberg.zz/api/v1/RoomExhibitConfigList.json",
+   "SingleBeaconConfigPath":"http://lwl323aag01.audioguide.cappenberg.zz/api/v1/SingleBeaconConfig.json",
+   "AudioUpdateAssetURL":"http://lwl323aag01.audioguide.cappenberg.zz/api/v1/assets.json",
+   "AssetURL":"http://lwl323aag01.audioguide.cappenberg.zz:80/api/v1/assets/"
 }
